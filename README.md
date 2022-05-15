@@ -1,4 +1,4 @@
-<div style="background-color:powderblue;">
+<div style="background-color:red;">
   <a href="https://github.com/satyam-7318">
   <img align="left" alt="Satyam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>

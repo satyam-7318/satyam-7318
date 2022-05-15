@@ -1,4 +1,5 @@
-<a href="https://github.com/satyam-7318">
+<div style="background-color:powderblue;">
+  <a href="https://github.com/satyam-7318">
   <img align="left" alt="Satyam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/satyam-tiwari-9144ab202">
@@ -13,7 +14,7 @@
 <a href="https://t.me/satyam_1928118">
   <img align="left" alt="Satyam's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
+</div>
 <br />
 
 

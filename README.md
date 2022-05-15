@@ -1,4 +1,4 @@
-### Hi, I'm Satyam Tiwari 👋
+### Hi, I'm Satyam Tiwari https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif
 
 🎓 Undergraduate at NIT Bhopal, majoring in Electronics and Communication
 

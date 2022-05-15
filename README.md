@@ -14,10 +14,6 @@
   <img align="left" alt="Satyam's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<a href="https://github.com/satyam-7318">
-    <img src="https://komarev.com/ghpvc/?username=satyam-7318" alt="page views" />
-</a>
-
 <br />
 
 

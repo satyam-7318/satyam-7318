@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I'm Satyam Tiwari 👋
 
+🎓 Undergraduate at NIT Bhopal, majoring in Electronics and Communication
+
+🖥 Enhancing my Programming skills
 <!--
 **satyam-7318/satyam-7318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

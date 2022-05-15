@@ -1,4 +1,4 @@
-<div style="background-color:red;">
+
   <a href="https://github.com/satyam-7318">
   <img align="left" alt="Satyam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -8,13 +8,9 @@
 <a href="https://www.instagram.com/_satyam__tiwari_/">
   <img align="left" alt="Arnav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="satyamtiwari2016@gmail.com">
-  <img align="left" alt="Satyam's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 <a href="https://t.me/satyam_1928118">
   <img align="left" alt="Satyam's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-</div>
 <br />
 
 

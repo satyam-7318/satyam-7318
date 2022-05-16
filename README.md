@@ -6,7 +6,7 @@
   <img align="left" alt="Satyam's Linkdein" width="25px" height="25px" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-icon.svg" />
 </a>
 <a href="https://www.instagram.com/_satyam__tiwari_/">
-  <img align="left" alt="Arnav's Instagram" width="25px" height="25px"src="https://www.pngfind.com/pngs/m/144-1442428_instagram-logo-instagram-png-transparent-png.png" />
+  <img align="left" alt="Arnav's Instagram" width="25px" height="25px"src="https://www.clipartmax.com/png/middle/40-402911_logo-instagram-png.png">
 </a>
 <a href="https://t.me/satyam_1928118">
   <img align="left" alt="Satyam's Telegram" width="25px" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png">

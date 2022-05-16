@@ -9,7 +9,7 @@
   <img align="left" alt="Arnav's Instagram" width="22px" src="https://www.pngfind.com/pngs/m/144-1442428_instagram-logo-instagram-png-transparent-png.png" />
 </a>
 <a href="https://t.me/satyam_1928118">
-  <img align="left" alt="Satyam's Telegram" width="22px" src="https://i.pinimg.com/originals/21/17/67/2117670aad782aec702a75e2a736a37e.gif">
+  <img align="left" alt="Satyam's Telegram" width="22px" src="https://cdn.dribbble.com/users/1322735/screenshots/14088942/media/e4bb862ce77b60e7024de3ad2f8774cb.png?compress=1&resize=400x300&vertical=top">
 </a>
 <br />
 

@@ -3,7 +3,7 @@
   <img align="left" alt="Satyam's Github" width="22px" src="https://www.kindpng.com/picc/m/613-6133946_github-awesome-logo-svg-hd-png-download.png" />
 </a>
 <a href="https://www.linkedin.com/in/satyam-tiwari-9144ab202">
-  <img align="left" alt="Satyam's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Satyam's Linkdein" width="22px" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-icon.svg" />
 </a>
 <a href="https://www.instagram.com/_satyam__tiwari_/">
   <img align="left" alt="Arnav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />

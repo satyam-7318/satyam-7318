@@ -1,9 +1,9 @@
 
   <a href="https://github.com/satyam-7318">
-  <img align="left" alt="Satyam's Github" width="22px" src="https://e7.pngegg.com/pngimages/806/394/png-clipart-blue-animal-logo-github-icon-github-blue-world.png" />
+  <img align="left" alt="Satyam's Github" width="25px" height="25px" src="https://e7.pngegg.com/pngimages/806/394/png-clipart-blue-animal-logo-github-icon-github-blue-world.png" />
 </a>
 <a href="https://www.linkedin.com/in/satyam-tiwari-9144ab202">
-  <img align="left" alt="Satyam's Linkdein" width="22px" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-icon.svg" />
+  <img align="left" alt="Satyam's Linkdein" width="25px" height="25px" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-icon.svg" />
 </a>
 <a href="https://www.instagram.com/_satyam__tiwari_/">
   <img align="left" alt="Arnav's Instagram" width="25px" height="25px"src="https://www.pngfind.com/pngs/m/144-1442428_instagram-logo-instagram-png-transparent-png.png" />

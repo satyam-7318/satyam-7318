@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQHorJteo2rJzg/profile-displaybackgroundimage-shrink_350_1400/0/1627724888003?e=1658361600&v=beta&t=tgl6C9anxHCqlbt-kA1_dkXTxsKljZfXuBFh7aTEYbk">
+<img src="https://thumbs.dreamstime.com/b/introduction-concept-word-cork-board-77226561.jpg">
   <a href="https://github.com/satyam-7318">
   <img align="left" alt="Satyam's Github" width="25px" height="25px" src="https://e7.pngegg.com/pngimages/806/394/png-clipart-blue-animal-logo-github-icon-github-blue-world.png" />
 </a>

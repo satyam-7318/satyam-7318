@@ -1,6 +1,6 @@
-<img src="https://img.icons8.com/stickers/344/github.png">
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQHorJteo2rJzg/profile-displaybackgroundimage-shrink_350_1400/0/1627724888003?e=1658966400&v=beta&t=ZKfT4Onio384627HxgnUjoQqgSYuOeB14Aui4QyEfME">
   <a href="https://github.com/satyam-7318">
-  <img align="left" alt="Satyam's Github" width="25px" height="25px" src="https://e7.pngegg.com/pngimages/806/394/png-clipart-blue-animal-logo-github-icon-github-blue-world.png" />
+  <img align="left" alt="Satyam's Github" width="25px" height="25px" src="https://img.icons8.com/stickers/344/github.png" />
 </a>
 <a href="https://www.linkedin.com/in/satyam-tiwari-9144ab202">
   <img align="left" alt="Satyam's Linkdein" width="25px" height="25px" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-icon.svg" />

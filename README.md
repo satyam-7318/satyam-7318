@@ -15,7 +15,7 @@
 
 
 
-## Hi, I'm Satyam Tiwari <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px">
+## Hi, I'm Satyam Tiwari <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="4px">
 
 🎓 Undergraduate at NIT Bhopal, majoring in Electronics and Communication
 

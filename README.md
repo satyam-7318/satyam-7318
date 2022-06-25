@@ -15,7 +15,7 @@
 
 
 
-## Hi, I'm Satyam Tiwari
+## Hi, I'm Satyam Tiwari <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
 
 🎓 Undergraduate at NIT Bhopal, majoring in Electronics and Communication
